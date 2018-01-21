@@ -1,0 +1,6 @@
+server:
+  port: 1234
+##############################Spring
+spring:
+  profiles:
+    active: prod
